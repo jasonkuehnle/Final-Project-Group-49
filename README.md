@@ -1,8 +1,8 @@
-## Final-Project-Group-49
+# Final-Project-Group-49
 
-# Team Name: Group 48
+## Team Name: Group 48
 
-# Team Members:
+## Team Members:
 Jason Kuehnle: jjk120@pitt.edu
 <br>
 Jenn Cao: jec254@pitt.edu
@@ -10,7 +10,7 @@ Jenn Cao: jec254@pitt.edu
 Rob Grenda: rsg48@pitt.edu
 <br>
 
-# Links to datasets:
+## Links to datasets:
 Fast Food - List of fast food restaurants in Allegheny county - https://data.wprdc.org/dataset/allegheny-county-fast-food
 <br>
 Convenience Stores - List of all supermarkets and convenience stores in Allegheny county - https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores
