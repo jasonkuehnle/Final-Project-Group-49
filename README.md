@@ -11,11 +11,11 @@ Rob Grenda: rsg48@pitt.edu
 <br>
 
 ## Links to datasets:
-Fast Food - List of fast food restaurants in Allegheny county - https://data.wprdc.org/dataset/allegheny-county-fast-food
+Fast Food (Jason) - List of fast food restaurants in Allegheny county - https://data.wprdc.org/dataset/allegheny-county-fast-food
 <br>
-Convenience Stores - List of all supermarkets and convenience stores in Allegheny county - https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores
+Convenience Stores (Jenn) - List of all supermarkets and convenience stores in Allegheny county - https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores
 <br>
-Tobacco Vendors - List of all tobacco vendors in Allegheny county - https://data.wprdc.org/dataset/allegheny-county-tobacco-vendors
+Tobacco Vendors (Rob) - List of all tobacco vendors in Allegheny county - https://data.wprdc.org/dataset/allegheny-county-tobacco-vendors
 <br>
 
 This repository analyzes datasets to determine the best neighborhood in Pittsburgh, based on the metric, "Bad for the body, good for the soul."
